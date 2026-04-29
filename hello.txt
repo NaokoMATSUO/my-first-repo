@@ -1,1 +1,2 @@
 Hello Git
+はじめてのVS Code編集です
